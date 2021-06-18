@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeExampleTwo</string>
+    <string name="pay">Pay</string>
+    <string name="payment_method">Payment Method</string>
+</resources>
